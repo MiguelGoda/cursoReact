@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/header.scss';
+import '../styles/Header.scss';
 import menu from '../../public/icons/icon_menu.svg'
 import logo from '../../public/logos/logo_yard_sale.svg'
 import cart from '../../public/icons/icon_shopping_cart.svg'
